@@ -1,0 +1,26 @@
+=== Ringkasan Komprehensif untuk Simulasi Perpindahan Panas ===
+
+1. Laju Pendinginan
+  Laju 0.05: Suhu Akhir = 52.66 °C
+  Laju 0.1: Suhu Akhir = 35.15 °C
+  Laju 0.15: Suhu Akhir = 28.71 °C
+  Suhu Min (Laju 0.15): 28.71 °C
+  Suhu Maks (Laju 0.05): 100.00 °C
+--------------------------------------------------
+2. Pendinginan vs Pemanasan
+  Suhu Akhir Pendinginan: 52.66 °C
+  Suhu Akhir Pemanasan: 72.34 °C
+  Suhu Min Pendinginan: 52.66 °C
+  Suhu Maks Pemanasan: 72.34 °C
+--------------------------------------------------
+3. Data Cuaca
+  Suhu Akhir Objek: 37.10 °C
+  Rata-rata Suhu Lingkungan: -0.13 °C
+  Suhu Min Objek: 37.10 °C
+  Suhu Maks Lingkungan: 3.77 °C
+--------------------------------------------------
+4. CES vs DES
+  Suhu Akhir CES: 52.66 °C
+  Suhu Akhir DES: 52.66 °C
+  Suhu Min CES: 52.66 °C
+  Suhu Maks DES: 100.00 °C
